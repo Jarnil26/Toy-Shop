@@ -1,0 +1,40 @@
+{
+    "categories": [
+      {
+        "name": "Action Figures",
+        "toys": [
+          { "id": 1, "name": "Dino | Monster", "price": 299.00, "image": "assets/dino.jpg" },
+          { "id": 2, "name": "Militray Man | Army", "price": 499.00, "image": "assets/military.jpg" },
+          { "id": 3, "name": "Spider Man | Marvel", "price": 449.00, "image": "assets/spider.jpg" }
+        ]
+      },
+      {
+        "name": "Educational Toys",
+        "toys": [
+          { "id": 4, "name": "Name Book | Learn Name", "price": 99.00, "image": "assets/book.jpg" },
+          { "id": 5, "name": "Block Building | Build with Block", "price": 249.00, "image": "assets/block.jpg" },
+          { "id": 6, "name": "Blix Electromagnetix  | 30-in-1", "price": 1349.00, "image": "assets/blix.jpg" }
+
+        ]
+      },
+      {
+        "name": "Dolls",
+        "toys": [
+          { "id": 7, "name": "Panda Doll | A Cute Panda", "price": 599.00, "image": "assets/panda.jpg" },
+          { "id": 8, "name": "Teddy | White Doll", "price": 499.00, "image": "assets/teddy.jpg" },
+          { "id": 9, "name": "3 Small Teddy | 3 Pack Of Dolls", "price": 999.00, "image": "assets/3teddy.jpg" }
+
+        ]
+      },
+      {
+        "name": "Puzzles",
+        "toys": [
+          { "id": 10, "name": "Wooden Block Challeng | 54-Pices", "price": 699.00, "image": "assets/tower.jpg" },
+          { "id": 11, "name": "Arrang Alphabate | Alphabatic Challenge", "price": 199.00, "image": "assets/alphabate.jpg" },
+          { "id": 12, "name": "Early Learning | Puzzle Box", "price": 249.00, "image": "assets/puzzel.jpg" }
+
+        ]
+      }
+    ]
+  }
+  
